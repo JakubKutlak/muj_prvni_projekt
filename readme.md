@@ -2,4 +2,7 @@ první řádek s readme
 
 třetí řádek a druhý s textem. Upravená změna řádku
 
-obsahový text...
+obsahový text... změna
+
+Nový řádek z IDE
+Druhý řádek z IDE
